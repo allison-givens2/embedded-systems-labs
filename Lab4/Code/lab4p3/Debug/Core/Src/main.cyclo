@@ -1,0 +1,12 @@
+../Core/Src/main.c:81:6:DHT11_Delay	2
+../Core/Src/main.c:87:6:DHT11_Start	1
+../Core/Src/main.c:102:9:DHT11_CheckResponse	4
+../Core/Src/main.c:120:9:DHT11_ReadByte	5
+../Core/Src/main.c:132:9:DHT11_Read	3
+../Core/Src/main.c:168:5:main	2
+../Core/Src/main.c:244:6:SystemClock_Config	4
+../Core/Src/main.c:294:13:MX_TIM1_Init	4
+../Core/Src/main.c:341:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:374:13:MX_DMA_Init	1
+../Core/Src/main.c:395:13:MX_GPIO_Init	1
+../Core/Src/main.c:465:6:Error_Handler	1
