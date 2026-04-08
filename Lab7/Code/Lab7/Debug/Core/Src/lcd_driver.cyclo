@@ -1,0 +1,9 @@
+../Core/Src/lcd_driver.c:8:13:LCD_WriteNibble	1
+../Core/Src/lcd_driver.c:21:13:LCD_WriteCommand	1
+../Core/Src/lcd_driver.c:31:13:LCD_WriteData	1
+../Core/Src/lcd_driver.c:41:6:setCursor	6
+../Core/Src/lcd_driver.c:52:6:lcd_send_string	2
+../Core/Src/lcd_driver.c:56:6:lcd_init	1
+../Core/Src/lcd_driver.c:84:6:lcd_clear	1
+../Core/Src/lcd_driver.c:90:6:create_custom_char	11
+../Core/Src/lcd_driver.c:114:6:display_custom_char	9
